@@ -33,7 +33,7 @@ To adjust the size, create "extraInventory.txt" in game's root folder and place 
 The original mod was created by Pirate-Rob and I have merely built upon his work.  
 Crafting is now done only by using the Q key (C removed). The Slugcat must also stand still and attempt the craft for a few seconds before getting a result (even when the recipe does not work).  
 Creation of items usually has a price up to 1 full food point (until higher Karmas are reached), crafting is therefore recommended near a food source.  
-As far as canon goes, the recipes are suprisingly lore-friendly, however I would consider all "crafted plants" to be artifical substitutes.  
+As far as canon goes, the recipes are surprisingly lore-friendly, however I would consider all "crafted plants" to be artifical substitutes.  
 Usually the difference in using creation in comparison to reverse-engineering is in how many items the Slugcat is holding, however there are exceptions.  
 Some of the recipes:  
 - Spear = Debris + Debris  

@@ -6,7 +6,7 @@ Uses [Partiality](https://github.com/PartialityModding/PartialityLauncher) for c
 [RELEASE DOWNLOAD](https://github.com/Dark-Gran/KarmaAppetite/releases/tag/1.0)  
 (links to source at the end)  
   
-## Basic Description (minimal spoilers)  
+## Description
   
 Meet the Archeologist, also known as the Pilgrim, the Adventurer (adventures not included), or the Tomb Raider: a crafty and hyperactive Slugcat that stumbled upon a karmic blessing... or a curse. Set up on a journey to Your favourite Iterators who will finally properly recognize You - and on the way, learn the importance of nutritious breakfest.  
   
@@ -46,21 +46,3 @@ Some of the recipes:
 - Neuron = Items related to iterators  
 - Karma Flower = ??  
 - Bomb ("Cherrybomb alternative path") = Items found near iterators (time to hunt in 5P-UD)  
-  
-  
-## "So how strong" - Frame of Reference (some spoilers!)  
-  
-The following section provides some description of Archeologist's Karma/Food/Stats scaling, a comparison to other Slugcats.  
-
-**You may want to experiment first and learn on Your own in game!**  
-  
-<details>  
-  <summary>SPOILER</summary>  
-  
-    
-  **0 Food, Any Karma**: Slower than Monk and cannot properly throw a spear (body move must be executed in order to stuck it into anything, and the damage is low).  
-  **Max Food, Karma 1**: +- Survivor  
-  **Max Food, Karma 3**: Upgraded Survivor with some english on the spear.  
-  **Max Food, Karma 5**: Hunter with multiplied damage on the spear.  
-  **Max Food, Karma 10**: Dances with Martyr. (on Karma 10, all bonuses are doubled)  
-</details>  

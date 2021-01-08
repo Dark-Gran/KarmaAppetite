@@ -52,9 +52,13 @@ Some of the recipes:
 This section contains a frame of reference (imperfect), a comparison to other Slugcats. You may want to find out about Archaeologist's potential in game.  
 
 <details>
+  
   <summary>SPOILER</summary>
+  
+  
   **No food, any Karma** - Slower than Monk and can't even throw a spear properly: stucking it into walls/creatures requires a jump into melee distance.
   **Max food, Karma 2** - +- Survivor
   **Max food, Karma 5** - Hunter with multiplied damage on spear.
   **Max food, Karma 10** - Dances with Martyr. (on Karma 10, all bonuses are doubled)
+  
 </details>

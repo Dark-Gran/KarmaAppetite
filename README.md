@@ -20,8 +20,11 @@ A composition of mods combining the Survivor/Hunter experience (and inspired by 
 - **Love for the Moon:** Did you know that when Moon likes Slugcat too much, she starts acting indifferent/neutral? Turns out one of her neurons was faulty, and she feels much better since it was replaced. Also fixing the good old betrayal bug. (usable separately)  
 - **Playable on all difficulties.** (Monk gets more energy from fruits to allow him sustain high Karmas as well; I recommend [HunterSpawns](https://drive.google.com/file/d/1VlO82XQMyXaY79xhIF2rRuiWxUYStPFu/view) mod for the Survivor)  
   
-### Submod Details  
-####Extra inventory  
-The system of swallow/regurgitate has been reworked. The Slugcat now cares only about the item in it's right hand: If there is one, the Slugcat will try to swallow it. If there isn't, the Slugcat will try to retrieve an item.  
+### Submods Info  
+**Extra inventory**  
+The system of swallow/regurgitate has been reworked. The Slugcat now cares only about the item in it's right hand: If there is one, the Slugcat will try to swallow it. If there isn't, the Slugcat will try to retrieve an item. (please forgive animations)  
 The inventory works as a stack, which means the retrieved item will always be the last item swalloved.  
 To adjust the size, create "extraInventory.txt" in game's root folder and place a number inside (it is _extra_ inventory, ie. default is 1, not 2).  
+
+**Crafting Mod**
+The original 

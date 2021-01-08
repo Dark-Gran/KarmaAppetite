@@ -13,7 +13,8 @@ Meet the Archeologist, also known as the Pilgrim, the Adventurer (adventures not
 A composition of mods combining the Survivor/Hunter experience (and inspired by the many other Slugcats out there). Minor mods usable separately.  
   
 ### Main Features  
-- **Karma/Food/Stats scaling:** High Karma is difficult to sustain, but the energy leads to great power. No matter the Karma however, hungry Slugcat is extra weak. (Higher Karma also provides some utility and removes ability prices (see below))
+- **Karma/Food/Stats scaling:** High Karma is difficult to sustain, but the energy leads to great power. No matter the Karma however, hungry Slugcat is extra weak - that grass you hopped through with ease in the evening will eat you in the morning!
+(Higher Karma also provides some utility and removes ability prices (see below))
 - **Spear proficiency:** Spear-on-back is a must-have for the Archeologist, and so is the ability to pull out spears stuck in walls, allowing him to get out of many tough spots. Almost any wall can be climbed! For a price. (Both mods optional, or usable separately)  
 - **Extra inventory:** When you're swimming in ancient artifacts, you gotta learn how to handle them more efficiently. Forget storing only a single pearl - now you can store two! (Optional/usable-separately; size is configurable and potentially "unlimited")  
 - **Upgraded CraftingMod:** I took the liberty of building upon Pirate-Robs CraftingMod. Featuring crafting time, prices, and new recipes, including reverse engineering. Ever wanted to eat the glowing insides of a lantern, or just break your spear in half out of sheer frustration? Now you can! (requires KarmaAppetite_Base module to function; [you may also want to try the independent original](https://drive.google.com/file/d/1Ncw1LacgQ2BIFJdovaphjtJKiaqBlaBs/view))  
@@ -25,22 +26,32 @@ A composition of mods combining the Survivor/Hunter experience (and inspired by 
 The system of swallow/regurgitate has been reworked. The Slugcat now cares only about the item in the right hand: If there is one, the Slugcat will try to swallow it. If there isn't, the Slugcat will try to retrieve an item. (please forgive animations)  
 The inventory works as a stack, which means the retrieved item will always be the last item swalloved.  
 To adjust the size, create "extraInventory.txt" in game's root folder and place a number inside (it is _extra_ inventory, ie. default is 1, not 2).  
-
+  
 **Crafting Mod**  
 The original mod was created by Pirate-Rob and I have merely built upon his work.  
 Crafting is now done only by using the Q key (C removed). The Slugcat must also stand still and attempt the craft for a few seconds before getting a result (even when the recipe does not work).  
 Creation of items usually has a price up to 1 full food point (until higher Karmas are reached), crafting is therefore recommended near a food source.  
 As far as canon goes, the recipes are suprisingly lore-friendly, however I would consider all "crafted plants" to be artifical substitutes.  
 Usually the difference in using creation in comparison to reverse-engineering is in how many items the Slugcat is holding, however there are exceptions.  
-Some recipes (not all):  
-- Spear = Debris + Debris
-- Bomb = Cherrybomb + Bubblefruit/Rock
-- Explosive Spear = Spear + Bomb
-- Lantern = Glowmold + Bluefruit
-- Beebomb = Cherrybomb + Cherrybomb
-- Gasbomb = Mushroom + Mushroom
-- Flashbang = Jellyfish + Fruit
-- GrappleWorm = VultureWorm + Bluefruit
-- Neuron = Two different items related to iterators
-- Karma Flower = ??
-- Bomb ("Cherrybomb alternative path") = Items found near iterators (time to hunt in 5P-UD)
+Some of the recipes:  
+- Spear = Debris + Debris  
+- Bomb = Cherrybomb + Bubblefruit/Rock  
+- Explosive Spear = Spear + Bomb  
+- Lantern = Glowmold + Bluefruit  
+- Beebomb = Cherrybomb + Cherrybomb  
+- Gasbomb = Mushroom + Mushroom  
+- Flashbang = Jellyfish + Fruit  
+- GrappleWorm = VultureWorm + Bluefruit  
+- Neuron = Items related to iterators  
+- Karma Flower = ??  
+- Bomb ("Cherrybomb alternative path") = Items found near iterators (time to hunt in 5P-UD)  
+
+
+## "So how strong" - Frame of Reference (SOME SPOILERS)  
+
+The following section provides some description of Slugcat's Karma/Food/Stats scaling.
+
+<details>
+  <summary>asd</summary>
+  todo
+</details>

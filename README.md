@@ -11,6 +11,7 @@ Uses [Partiality](https://github.com/PartialityModding/PartialityLauncher) for c
 Meet the Archeologist, also known as the Pilgrim, the Adventurer (adventures not included), or the Tomb Raider: a crafty and hyperactive Slugcat that stumbled upon a karmic blessing... or a curse. Set up on a journey to Your favourite Iterators who will finally properly recognize You - and on the way, learn the importance of nutritious breakfest.  
   
 A composition of mods combining the Survivor/Hunter experience (and inspired by the many other Slugcats out there). Minor mods usable separately.  
+Difficulty questionable (but most probably "hard").  
   
 ### Main Features  
 - **Karma/Food/Stats scaling:** High Karma is difficult to sustain, but the energy leads to great power. No matter the Karma however, hungry Slugcat is extra weak - that grass you hopped through with ease in the evening will eat you in the morning!
@@ -51,7 +52,7 @@ Some of the recipes:
   
 The following section provides some description of Slugcat's Karma/Food/Stats scaling, a comparison to other Slugcats.  
 
-**You may want to experiment and learn on Your own in game!**  
+**You may want to experiment first and learn on Your own in game!**  
   
 <details>
   <summary>SPOILER</summary>

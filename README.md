@@ -1,7 +1,7 @@
 # KarmaAppetite  
   
 This is a mod for the Rain World game, enhancing all playable characters.  
-InstallatioN: Uses [Partiality](https://github.com/PartialityModding/PartialityLauncher) for compatibility (however untested).  
+Installation: Uses [Partiality](https://github.com/PartialityModding/PartialityLauncher) for compatibility (however untested).  
   
 [RELEASE DOWNLOAD](https://github.com/Dark-Gran/KarmaAppetite/releases/tag/1.0)  
   

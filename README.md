@@ -37,7 +37,7 @@ As far as canon goes, the recipes are surprisingly lore-friendly, however I woul
 Usually the difference in using creation in comparison to reverse-engineering is in how many items the Slugcat is holding, however there are exceptions.  
 Some of the recipes:  
 - Spear = Debris + Debris  
-- Bomb = Cherrybomb + Bubblefruit/Rock  
+- Bomb = Cherrybomb + Bubblefruit/Debris  
 - Explosive Spear = Spear + Bomb  
 - Lantern = Glowmold + Bluefruit  
 - Beebomb = Cherrybomb + Cherrybomb  

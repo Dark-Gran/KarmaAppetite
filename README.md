@@ -56,7 +56,7 @@ The following section provides some description of Archeologist's Karma/Food/Sta
   
 <details>  
   <summary>SPOILER</summary>  
-  - All Slugcats use quarterPoints, and only the Monk gets full points from fruits (only the blue fruits).  
+- All Slugcats use quarterPoints, and only the Monk gets full points from fruits (only the blue fruits).  
   - The appetite, based on _current_ Karma, ranges from half the Hunters to double. Something like that.  
   - The Slugcat no longer glows when it eats a neuron. Instead it gains glow on Karma 5 with some food.
   - After reaching Karma 7, spear pull and crafting becomes free.  

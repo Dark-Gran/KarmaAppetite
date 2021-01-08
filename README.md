@@ -60,7 +60,9 @@ This section contains a frame of reference (imperfect), a comparison to other Sl
   **Max food, Karma 10**: Dances with Martyr. (on Karma 10, all bonuses are doubled)  
   
 </details>
-
+  
+  
+  
 ## Source Code
 
 //todo

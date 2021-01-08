@@ -66,8 +66,11 @@ This section contains a frame of reference (imperfect), a comparison to other Sl
 ## Source Code
 
 The code of all modules is open-source (atm with the exception of the Crafting Mod).
-[KarmaAppetite_Base](https://github.com/Dark-Gran/KarmaAppetite_Base)
-[KarmaAppetite_ExtraInventory](https://github.com/Dark-Gran/KarmaAppetite_ExtraInventory)
-[KarmaAppetite_MoonFix](https://github.com/Dark-Gran/MoonFix)
-[KarmaAppetite_SpearOnBack](https://github.com/Dark-Gran/KarmaAppetite_SpearOnBack)
-[KarmaAppetite_SpearPull](https://github.com/Dark-Gran/KarmaAppetite_SpearPull)
+Git Links:
+[KarmaAppetite_Base](https://github.com/Dark-Gran/KarmaAppetite_Base)  
+[KarmaAppetite_ExtraInventory](https://github.com/Dark-Gran/KarmaAppetite_ExtraInventory)  
+[KarmaAppetite_MoonFix](https://github.com/Dark-Gran/MoonFix)  
+[KarmaAppetite_SpearOnBack](https://github.com/Dark-Gran/KarmaAppetite_SpearOnBack)  
+[KarmaAppetite_SpearPull](https://github.com/Dark-Gran/KarmaAppetite_SpearPull)  
+
+2021@DarkGran

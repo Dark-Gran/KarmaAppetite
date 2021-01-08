@@ -12,7 +12,7 @@ Meet the Archeologist, also known as the Pilgrim, the Adventurer (adventures not
 A composition of mods combining the Survivor/Hunter experience (and inspired by the many other Slugcats out there). Minor mods usable separately.  
 Difficulty questionable (but most probably "hard").  
   
-### Main Features  
+### Features  
 - **Karma/Food/Stats scaling:** High Karma is difficult to sustain, but the energy leads to great power. No matter the Karma however, hungry Slugcat is extra weak - that grass you hopped through with ease in the evening will eat you in the morning!
 (Higher Karma also provides some utility and removes ability prices (see below))
 - **Spear proficiency:** Spear-on-back is a must-have for the Archeologist, and so is the ability to pull out spears stuck in walls, allowing him to get out of many tough spots. Almost any wall can be climbed! For a price. (Both mods optional, or usable separately)  

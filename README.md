@@ -22,7 +22,7 @@ A composition of mods combining the Survivor/Hunter experience (and inspired by 
   
 ### Submods Info  
 **Extra inventory**  
-The system of swallow/regurgitate has been reworked. The Slugcat now cares only about the item in it's right hand: If there is one, the Slugcat will try to swallow it. If there isn't, the Slugcat will try to retrieve an item. (please forgive animations)  
+The system of swallow/regurgitate has been reworked. The Slugcat now cares only about the item in its right hand: If there is one, the Slugcat will try to swallow it. If there isn't, the Slugcat will try to retrieve an item. (please forgive animations)  
 The inventory works as a stack, which means the retrieved item will always be the last item swalloved.  
 To adjust the size, create "extraInventory.txt" in game's root folder and place a number inside (it is _extra_ inventory, ie. default is 1, not 2).  
 

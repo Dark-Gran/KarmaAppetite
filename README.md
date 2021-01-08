@@ -4,7 +4,6 @@ This is a mod for the Rain World game, enhancing all playable characters.
 Uses [Partiality](https://github.com/PartialityModding/PartialityLauncher) for compatibility (however untested).  
   
 [RELEASE DOWNLOAD](https://github.com/Dark-Gran/KarmaAppetite/releases/tag/1.0)  
-(links to source at the end)  
   
 ## Description
   
@@ -61,3 +60,7 @@ This section contains a frame of reference (imperfect), a comparison to other Sl
   **Max food, Karma 10**: Dances with Martyr. (on Karma 10, all bonuses are doubled)  
   
 </details>
+
+## Source Code
+
+//todo

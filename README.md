@@ -26,5 +26,21 @@ The system of swallow/regurgitate has been reworked. The Slugcat now cares only 
 The inventory works as a stack, which means the retrieved item will always be the last item swalloved.  
 To adjust the size, create "extraInventory.txt" in game's root folder and place a number inside (it is _extra_ inventory, ie. default is 1, not 2).  
 
-**Crafting Mod**
-The original 
+**Crafting Mod**  
+The original mod was created by Pirate-Rob and I have merely built upon his work.  
+Crafting is now done only by using the Q key (C removed). The Slugcat must also stand still and attempt the craft for a few seconds before getting a result (even when the recipe does not work).  
+Creation of items usually has a price up to 1 full food point (until higher Karmas are reached), crafting is therefore recommended near a food source.  
+As far as canon goes, the recipes are suprisingly lore-friendly, however I would consider all "crafted plants" to be artifical substitutes.  
+Usually the difference in using creation in comparison to reverse-engineering is in how many items the Slugcat is holding, however there are exceptions.  
+Some recipes (not all):  
+- Spear = Debris + Debris
+- Bomb = Cherrybomb + Bubblefruit/Rock
+- Explosive Spear = Spear + Bomb
+- Lantern = Glowmold + Bluefruit
+- Beebomb = Cherrybomb + Cherrybomb
+- Gasbomb = Mushroom + Mushroom
+- Flashbang = Jellyfish + Fruit
+- GrappleWorm = VultureWorm + Bluefruit
+- Neuron = Two different items related to iterators
+- Karma Flower = ??
+- Bomb ("Cherrybomb alternative path") = Items found near iterators (time to hunt in 5P-UD)

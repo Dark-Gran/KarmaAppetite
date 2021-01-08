@@ -48,7 +48,8 @@ Some of the recipes:
 
 ### Power Comparison  
   
-This section contains a frame of reference (imperfect), a comparison to other Slugcats. You may want to find out about Archaeologist's potential in game.  
+This section contains a frame of reference (imperfect), a comparison to other Slugcats.  
+_You may want to find out about Archaeologist's potential in game._  
   
 <details>
   

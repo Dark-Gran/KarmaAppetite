@@ -50,21 +50,21 @@ Some of the recipes:
   
 ## "So how strong" - Frame of Reference (some spoilers!)  
   
-The following section provides some description of Slugcat's Karma/Food/Stats scaling, a comparison to other Slugcats.  
+The following section provides some description of Archeologist's Karma/Food/Stats scaling, a comparison to other Slugcats.  
 
 **You may want to experiment first and learn on Your own in game!**  
   
-<details>
-  <summary>SPOILER</summary>
+<details>  
+  <summary>SPOILER</summary>  
   - All Slugcats now use quarter food points, and only the Monk gets full points from fruits (only the blue fruits).  
   - The appetite, based on _current_ Karma, ranges from half the Hunters to double. Something like that.  
-  - The Slugcat no longer glows when it eats a neuron. Instead it gains glow on Karma 5, but only if it has at least 1 Food in its stomach.
-  - After reaching Karma 7, spear pull and crafting becomes free.
-  - Karma 10 doubles all stat bonuses.
-  
-  **0 Food, Any Karma**: Slower than Monk and cannot properly throw a spear (body move must be executed in order to stuck it into anything, and the damage is low).
-  **Max Food, Karma 1**: +- Survivor
-  **Max Food, Karma 3**: Upgraded Survivor with some english on the spear.
-  **Max Food, Karma 5**: Hunter with multiplied damage on the spear.
-  **Max Food, Karma 10**: Dances with Martyr. (on Karma 10, all bonuses are doubled)
-</details>
+  - The Slugcat no longer glows when it eats a neuron. Instead it gains glow on Karma 5, but only if it has at least 1 Food in its stomach.  
+  - After reaching Karma 7, spear pull and crafting becomes free.  
+  - Karma 10 doubles all stat bonuses.  
+    
+  **0 Food, Any Karma**: Slower than Monk and cannot properly throw a spear (body move must be executed in order to stuck it into anything, and the damage is low).  
+  **Max Food, Karma 1**: +- Survivor  
+  **Max Food, Karma 3**: Upgraded Survivor with some english on the spear.  
+  **Max Food, Karma 5**: Hunter with multiplied damage on the spear.  
+  **Max Food, Karma 10**: Dances with Martyr. (on Karma 10, all bonuses are doubled)  
+</details>  

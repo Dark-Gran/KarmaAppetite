@@ -63,6 +63,7 @@ _You may want to find out about Archaeologist's potential in game._
   **Max food, Karma 1-3**: +- Survivor  
   **Max food, Karma 5**: Glowing Hunter with a multiplied damage on spear.  
   **Max food, Karma 10**: Dances with Martyr. (on Karma 10, all bonuses are doubled)  
+  Note: Karma 7 removes food price from crafting and spear-dislodge.
   
 </details>
   

@@ -22,7 +22,7 @@ Difficulty questionable (but most probably "hard").
 - **Spear proficiency:** Spear-on-back is a must-have for the Archeologist, and so is the ability to pull out spears stuck in walls, allowing him to get out of many tough spots. Almost any wall can be climbed! For a price. (Both mods optional, or usable separately)  
 - **Extra inventory:** When you're swimming in ancient artifacts, you gotta learn how to handle them more efficiently. Forget storing only a single pearl - now you can store two! (Optional/usable-separately; size is configurable and potentially "unlimited")  
 - **Upgraded CraftingMod:** I took the liberty of building upon Pirate-Robs CraftingMod. Featuring crafting time, prices, and new recipes, including reverse engineering. Ever wanted to eat the glowing insides of a lantern, or just break your spear in half out of sheer frustration? Now you can! (requires the main module to function; [you may also want to try the independent original](https://drive.google.com/file/d/1Ncw1LacgQ2BIFJdovaphjtJKiaqBlaBs/view))  
-- **Love for the Moon:** Did you know that when Moon likes Slugcat too much, she starts acting indifferent/neutral? Turns out one of her neurons was faulty, and she feels much better since it was replaced. Also fixing the good old betrayal bug. (usable separately, but required for the main module to function)  
+- **Love for the Moon:** Did you know that when Moon likes Slugcat too much, she starts acting indifferent/neutral? Turns out one of her neurons was faulty, and she feels much better since it was replaced. Fixing the good old betrayal bug as well. (usable separately, but required for the main module to function)  
 - **Playable on all difficulties.** (Monk gets more energy from fruits to compensate for the lack of fauna; Survivor (as default experience) expects the [HunterSpawns](https://drive.google.com/file/d/1VlO82XQMyXaY79xhIF2rRuiWxUYStPFu/view) mod (otherwise might need to move around a lot); Hunter is not affected by some of the mod's changes to ensure compatibility)  
   
 ### Submods Info  
@@ -33,7 +33,7 @@ To adjust the size, create "extraInventory.txt" in game's root folder and place 
   
 **Crafting Mod**  
 The original mod was created by Pirate-Rob and I have merely built upon his work.  
-Crafting is now done only by using the Q key (C removed). The Slugcat must also stand still and attempt the craft for a few seconds before getting a result (even when the recipe does not work).  
+Crafting is now done only by using the Q key (C removed) and the Slugcat must stand still and attempt the craft for a few seconds before receiving a result (even when the attempted recipe does not work).  
 Creation of items usually has a price up to 1 full food point (until higher Karmas are reached), crafting is therefore recommended near a food source.  
 As far as canon goes, the recipes are surprisingly lore-friendly, however I would consider all "crafted plants" to be artificial substitutes.  
 Usually the difference in using creation in comparison to reverse-engineering is in how many items the Slugcat is holding, however there are exceptions.  

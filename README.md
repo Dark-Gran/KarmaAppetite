@@ -80,5 +80,3 @@ Git Links:
 [KarmaAppetite_MoonFix](https://github.com/Dark-Gran/MoonFix)  
 [KarmaAppetite_SpearOnBack](https://github.com/Dark-Gran/KarmaAppetite_SpearOnBack)  
 [KarmaAppetite_SpearPull](https://github.com/Dark-Gran/KarmaAppetite_SpearPull)  
-  
-2021@DarkGran  

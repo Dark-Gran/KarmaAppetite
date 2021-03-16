@@ -4,10 +4,9 @@
   
 This is a mod for the Rain World game v1.5, enhancing all playable characters.  
   
-Installation: Uses [Partiality](https://github.com/PartialityModding/PartialityLauncher) for compatibility (however untested).  
-  
 [RELEASE DOWNLOAD](https://github.com/Dark-Gran/KarmaAppetite/releases/tag/1.0)  
-  
+
+Installation: Uses [Partiality](https://github.com/PartialityModding/PartialityLauncher) for compatibility (however untested).  
   
 [_(jump to source-code)_](#source-code)  
   

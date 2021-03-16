@@ -8,7 +8,7 @@ Installation: Uses [Partiality](https://github.com/PartialityModding/PartialityL
   
 [RELEASE DOWNLOAD](https://github.com/Dark-Gran/KarmaAppetite/releases/tag/1.0)  
 
-(source code at the end)
+[jump to source-code](##-Source-Code)
   
 ## Description
   
@@ -71,7 +71,7 @@ _You may want to find out about Archaeologist's potential in game._
   
   
   
-## Source Code  
+## Source Code
   
 The code of all modules is open-source (atm with the exception of the Crafting Mod).  
 Git Links:  

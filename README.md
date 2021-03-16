@@ -8,7 +8,7 @@ Installation: Uses [Partiality](https://github.com/PartialityModding/PartialityL
   
 [RELEASE DOWNLOAD](https://github.com/Dark-Gran/KarmaAppetite/releases/tag/1.0)  
 
-[jump to source-code](##-Source-Code)
+[(jump to source-code)](#source-code)
   
 ## Description
   

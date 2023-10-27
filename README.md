@@ -2,7 +2,8 @@
   
   ![alt text](thumb.png)
   
-This is a mod for the Rain World game. **WORKS ONLY FOR v1.5!**
+This is a game mod for Rain World. 
+**WORKS ONLY FOR v1.5!**
 (link to Downpour version coming "soon")
   
 [RELEASE DOWNLOAD](https://github.com/Dark-Gran/KarmaAppetite/releases/tag/1.0)  

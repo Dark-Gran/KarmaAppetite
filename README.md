@@ -1,4 +1,4 @@
-# KarmaAppetite  
+# KarmaAppetite 1.0  
   
   ![alt text](thumb.png)
   

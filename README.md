@@ -3,6 +3,7 @@
   ![alt text](thumb.png)
   
 This is a game mod for Rain World.  
+  
 **WORKS ONLY FOR v1.5!**  
 (link to Downpour version coming "soon")
   

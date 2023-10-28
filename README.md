@@ -21,7 +21,7 @@ If you want to learn about _everything_ I do, I'll be happy if you [follow me on
   
 ## Description
   
-Meet the Archeologist, also known as the Pilgrim, the Adventurer (adventures not included), or the Tomb Raider: a crafty and hyperactive Slugcat that stumbled upon a karmic blessing... or a curse. Set up on a journey to Your favourite Iterators who will finally properly recognize You - and on the way, learn the importance of a nutritious breakfest.  
+Meet the ~Archeologist~ **Pathfinder**, also known as the ~Pilgrim~ Wayfarer, the ~Adventurer (adventures not included)~ Trailblazer, or the Tomb Raider: a crafty and hyperactive Slugcat that stumbled upon a karmic blessing... or a curse. Set up on a journey to Your favourite Iterators who will finally properly recognize You - and on the way, learn the importance of a nutritious breakfest.  
   
 A composition of mods combining the Survivor/Hunter experience (and inspired by the many other Slugcats out there).  
 Minor mods usable separately.  

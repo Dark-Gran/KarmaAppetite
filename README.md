@@ -12,8 +12,6 @@ Use [WinRAR](https://www.google.com/search?q=winrar) or similar to extract .dlls
 Installation: Uses ~~Partiality~~ Bepinex for compatibility.  
 (**Unfortunately still not compatible with some/most other mods.** Will be fixed in the future.)  
   
-If you want to learn about _everything_ I do, I'll be happy if you [follow me on my humble Twitter](https://twitter.com/DarkGran_CZ).  
-  
 [_(jump to source-code)_](#source-code)  
   
   
